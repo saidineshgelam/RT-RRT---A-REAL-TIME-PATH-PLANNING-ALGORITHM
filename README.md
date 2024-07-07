@@ -1,6 +1,7 @@
 This project is about, path palnning in an environment with dynamically moving obstacles, from start to goal. 
 
-![image](https://github.com/saidineshgelam/RT-RRT---A-REAL-TIME-PATH-PLANNING-ALGORITHM/assets/144295692/61dd8159-0a33-4dd5-b79c-b52fe79b1d6f)
+
+https://github.com/saidineshgelam/RT-RRT---A-REAL-TIME-PATH-PLANNING-ALGORITHM/assets/144295692/259aeef7-a5b2-440c-8ec4-458a1cd7b24b
 
 
 This is done in two methods namely, "method_1.py" and "method_2.py" (suggested in the paper )" 
